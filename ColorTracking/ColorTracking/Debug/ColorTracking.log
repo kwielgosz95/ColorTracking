@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\bigos\desktop\visualstudio_workspace\ii_stopien_studiow\colortracking\colortracking\main.cpp(133): warning C4018: '>': signed/unsigned mismatch
+c:\users\bigos\desktop\visualstudio_workspace\ii_stopien_studiow\colortracking\colortracking\main.cpp(140): warning C4018: '>': signed/unsigned mismatch
+c:\users\bigos\desktop\visualstudio_workspace\ii_stopien_studiow\colortracking\colortracking\main.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\bigos\desktop\visualstudio_workspace\ii_stopien_studiow\colortracking\colortracking\main.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\bigos\desktop\visualstudio_workspace\ii_stopien_studiow\colortracking\colortracking\main.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\bigos\desktop\visualstudio_workspace\ii_stopien_studiow\colortracking\colortracking\main.cpp(164): warning C4018: '<': signed/unsigned mismatch
+  ColorTracking.vcxproj -> C:\Users\bigos\Desktop\VisualStudio_WorkSpace\II_STOPIEN_STUDIOW\ColorTracking\Debug\ColorTracking.exe
+  ColorTracking.vcxproj -> C:\Users\bigos\Desktop\VisualStudio_WorkSpace\II_STOPIEN_STUDIOW\ColorTracking\Debug\ColorTracking.pdb (Partial PDB)
